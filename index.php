@@ -1,5 +1,6 @@
 <?php
   // Array of inspirational quotes
+echo "Anudeep's Spin Wheel for quotes";
   $quotes = [
     "Believe you can and you're halfway there. -Theodore Roosevelt",
     "The only way to do great work is to love what you do. -Steve Jobs",
